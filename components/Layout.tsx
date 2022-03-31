@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import type { FC, PropsWithChildren } from 'react';
+import type { FC } from 'react';
 import React from 'react';
 
 const Layout: FC = ({ children }): JSX.Element => (
